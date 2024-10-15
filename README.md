@@ -41,7 +41,7 @@ python evaluate.py
 
 ## Dataset
 
-The dataset used in this project is the [Sentiment Analysis Dataset](https://www.kaggle.com/datasets/abhi8923shriv/sentiment-analysis-dataset). It contains 50,000 movie reviews labeled as positive or negative.
+The dataset used in this project is the [Sentiment Analysis Dataset](https://www.kaggle.com/datasets/abhi8923shriv/sentiment-analysis-dataset).
 
 ## Model Architecture
 
